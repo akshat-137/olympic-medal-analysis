@@ -21,5 +21,10 @@ This project analyzes the performance of 10 countries in the Beijing Olympic Sum
 ## 🔧 Skills Used
 `MATLAB`, `Data Visualization`, `Matrix Operations`, `Scripting`
 
+## 🔗 Links
+- MATLAB Drive: Used for development and saving files
+- [My LinkedIn](www.linkedin.com/in/akshat-gupta-9b649a378)  
+
+
 
 Created as part of the **Explore Data with MATLAB Plots** course by MathWorks Academy.
